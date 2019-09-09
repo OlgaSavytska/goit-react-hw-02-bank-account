@@ -1,0 +1,27 @@
+.history {
+  width: 80%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-family: sans-serif;
+  border-collapse: collapse;
+}
+
+.htr {
+  height: 50px;
+  background-color: #eaeef3;
+  text-transform: uppercase;
+}
+
+th {
+  border: 2px solid #dfdfdf;
+}
+
+td {
+  height: 50px;
+  border: 2px solid #dfdfdf;
+}
+
+td:first-child {
+  text-transform: capitalize;
+}

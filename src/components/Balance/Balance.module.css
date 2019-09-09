@@ -1,0 +1,22 @@
+.balance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.text {
+  margin-right: 30px;
+}
+
+.iconUp {
+  margin-right: 5px;
+  color: green;
+}
+
+.iconDown {
+  margin-right: 5px;
+  color: red;
+}
